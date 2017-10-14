@@ -32,3 +32,5 @@ public class GServer
       }               
     }                    
 } //code for server   
+//compile the GServer as javac GServer.java
+//and then java GServer to start 
